@@ -62,7 +62,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <NavLink className="nav-link" to="/achievement">
-                History
+              achievement
               </NavLink>
             </li>
             <li className="nav-item">
